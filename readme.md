@@ -4,7 +4,7 @@
 
 -This Python script `cnn.py` implements a Convolutional Neural Network (CNN) using TensorFlow and Keras for image classification and updates for each EPOCH a GUI. The script utilizes the CIFAR-10 dataset, which is a benchmark dataset for image classification tasks. 
 
--This Python script `cnn_no_gui.py` implements a Convolutional Neural Network (CNN) using TensorFlow and Keras for image classification it shows graph at the end of all iterations. The script utilizes the CIFAR-10 dataset, which is a benchmark dataset for image classification tasks. 
+-This Python script `cnn_no_gui.py` same as above but it shows graph at the end of all iterations. The script utilizes the CIFAR-10 dataset, which is a benchmark dataset for image classification tasks. 
 
 
 ## Features
