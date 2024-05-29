@@ -19,7 +19,7 @@ This Python script `cnn.py` implements a Convolutional Neural Network (CNN) usin
 1. **Clone the Repository:**
 
     ```
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/CarlosCS50x/cnn.git
     cd your_repository
     ```
 
@@ -37,14 +37,11 @@ This Python script `cnn.py` implements a Convolutional Neural Network (CNN) usin
 
 ## Requirements
 
-- Python 3.x
-- TensorFlow 2.x
+- Python 3.12.3
+- TensorFlow 2.16.1
 - Matplotlib
 - NumPy
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
