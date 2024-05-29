@@ -23,7 +23,7 @@
 
     ```
     git clone https://github.com/CarlosCS50x/cnn.git
-    cd your_repository
+    cd repository_path
     ```
 
 2. **Install Dependencies:**
